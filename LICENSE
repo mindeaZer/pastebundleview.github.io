@@ -1,21 +1,29 @@
-MIT License
+PasteBundleView
 
-Copyright (c) 2025 Randy J
+Bundle & preview HTML, CSS & Java in one click.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Paste your HTML, CSS & Java to bundle and instantly view your website.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Usage
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Clone or download this repo.
+
+Open index.html in your browser (Chrome, Firefox, Edge, etc.).
+
+Paste your code into the three boxes.
+
+Click Generate Package and unzip the downloaded folder to view your files.
+
+License
+
+This project is released under the MIT License.
+
+Support Me
+
+If you find PasteBundleView useful and want to fuel this broke entrepreneur’s caffeine habit, consider sending a tip on Cash App:
+
+
+
+Every little bit keeps the code flowing—thank you! Feel free to drop a star ⭐ as well if you like it.
+
+
