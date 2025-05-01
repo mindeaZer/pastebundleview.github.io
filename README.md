@@ -1,2 +1,24 @@
-Bundle & preview HTML, CSS & Java in one click • Tip via Cash App: $futurists1
+PasteBundleView
+
+Bundle & preview HTML, CSS & Java in one click.
+
+Paste your HTML, CSS & Java to bundle and instantly view your website.
+
+Usage
+
+Clone or download this repo.
+
+Open index.html in your browser (Chrome, Firefox, Edge, etc.).
+
+Paste your code into the three boxes.
+
+Click Generate Package and unzip the downloaded folder to view your files.
+
+License
+
+This project is released under the MIT License.
+
+Support Me
+
+If you find PasteBundleView useful and want to fuel this broke entrepreneur’s caffeine habit, consider sending a tip on Cash App:$futurists1
 
